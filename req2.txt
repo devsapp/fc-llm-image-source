@@ -1,0 +1,21 @@
+torch
+langchain
+transformers
+sentencepiece
+sentence-transformers
+accelerate
+peft # lora
+scipy # bitsandbytes
+cpm_kernels # chatglm
+tiktoken  #qwen
+einops # qwen
+transformers_stream_generator # qwen
+packaging # flash-attention
+ninja # flash-attention
+
+fastapi
+uvicorn
+grpcio>=1.54.2
+protobuf>=4.23.2
+sse_starlette
+gunicorn
